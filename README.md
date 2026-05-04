@@ -1,5 +1,3 @@
-# Enterprise_AIP_Cash_Auditor
-Automated WealthTech reconciliation pipeline bypassing legacy RPA limits
 # Enterprise AIP Cash Auditor & Reconciliation Pipeline
 
 ## The Architecture Problem
